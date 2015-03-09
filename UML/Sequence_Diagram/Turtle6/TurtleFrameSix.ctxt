@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TurtleFrameSix()
+comment0.text=\r\n\ \ ||\ The\ constructors\ of\ the\ class\ are\:\r\n\ \ ||\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n\ \ ||\ \ Access\ \ \ \ \ Constructor\ Type\ \ Constructor\r\n\ \ ||\ \ ---------\ \ ----------------\ \ -------------------------------------------\r\n\ \ ||\ \ protected\ \ Default\ \ \ \ \ \ \ \ \ \ \ TurtleFrameSix()\r\n
+comment1.params=
+comment1.target=void\ buildFrame()
+comment1.text=\r\n\ \ ||\ The\ static\ main\ instantiates\ a\ test\ instance\ of\ the\ class\:\r\n\ \ ||\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n\ \ ||\ \ Return\ Type\ \ Method\ Name\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Access\ \ \ \ \ Parameter\ List\r\n\ \ ||\ \ -----------\ \ -----------------------------\ \ ---------\ \ -----------------\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ buildFrame()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ protected\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ setActionListeners()\ \ \ \ \ \ \ \ \ \ \ protected\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ resetCurrentPoint()\ \ \ \ \ \ \ \ \ \ \ \ protected\ \ int\ direction\r\n
+comment10.params=direction
+comment10.target=void\ resetCurrentPoint(int)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=closingEvent
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=
+comment3.target=void\ setActionListeners()
+comment4.params=e
+comment4.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=e
+comment9.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=12

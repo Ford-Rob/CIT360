@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TurtleCanvasPanelSix()
+comment0.text=\r\n\ \ ||\ The\ constructors\ of\ the\ class\ are\:\r\n\ \ ||\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n\ \ ||\ \ Access\ \ \ \ \ Constructor\ Type\ \ Constructor\r\n\ \ ||\ \ ---------\ \ ----------------\ \ -------------------------------------------\r\n\ \ ||\ \ protected\ \ Default\ \ \ \ \ \ \ \ \ \ \ TurtleCanvasPanelSix()\r\n
+comment1.params=
+comment1.target=java.awt.Panel\ getPanel()
+comment1.text=\r\n\ \ ||\ The\ static\ main\ instantiates\ a\ test\ instance\ of\ the\ class\:\r\n\ \ ||\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n\ \ ||\ \ Return\ Type\ \ Method\ Name\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Access\ \ \ \ \ Parameter\ List\r\n\ \ ||\ \ -----------\ \ -----------------------------\ \ ---------\ \ -----------------\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ buildPanel()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ public\r\n\ \ ||\ \ int\ \ \ \ \ \ \ \ \ \ getBeginX()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ public\r\n\ \ ||\ \ int\ \ \ \ \ \ \ \ \ \ getBeginY()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ public\r\n\ \ ||\ \ int\ \ \ \ \ \ \ \ \ \ getEndX()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ public\r\n\ \ ||\ \ int\ \ \ \ \ \ \ \ \ \ getEndY()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ public\r\n\ \ ||\ \ int\ \ \ \ \ \ \ \ \ \ getLimit()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ public\ \ \ \ \ int\ direction\r\n\ \ ||\ \ String\ \ \ \ \ \ \ getLineArray()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ public\r\n\ \ ||\ \ Panel\ \ \ \ \ \ \ \ getPanel()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ public\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ paint()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ public\ \ \ \ \ Graphics\ g\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ setLineArray()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ public\ \ \ \ \ Line2D\ line\r\n
+comment10.params=line
+comment10.target=void\ setLineArray(java.awt.geom.Line2D)
+comment2.params=
+comment2.target=void\ buildPanel()
+comment3.params=
+comment3.target=int\ getBeginX()
+comment4.params=
+comment4.target=int\ getBeginY()
+comment5.params=
+comment5.target=int\ getEndX()
+comment6.params=
+comment6.target=int\ getEndY()
+comment7.params=direction
+comment7.target=int\ getLimit(int)
+comment8.params=
+comment8.target=java.lang.String\ getLineArray()
+comment9.params=g
+comment9.target=void\ paint(java.awt.Graphics)
+numComments=11

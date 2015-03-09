@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EastPoint()
+comment0.text=\r\n\ \ ||\ The\ constructors\ of\ the\ class\ are\:\r\n\ \ ||\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n\ \ ||\ \ Access\ \ \ \ \ Constructor\ Type\ \ Constructor\r\n\ \ ||\ \ ---------\ \ ----------------\ \ -------------------------------------------\r\n\ \ ||\ \ protected\ \ Default\ \ \ \ \ \ \ \ \ \ \ EastPoint()\r\n
+comment1.params=
+comment1.target=void\ buildPanel()
+comment1.text=\r\n\ \ ||\ The\ static\ main\ instantiates\ a\ test\ instance\ of\ the\ class\:\r\n\ \ ||\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n\ \ ||\ \ Return\ Type\ \ Method\ Name\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Access\ \ \ \ \ Parameter\ List\r\n\ \ ||\ \ -----------\ \ -----------------------------\ \ ---------\ \ -----------------\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ buildPanel()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ private\r\n\ \ ||\ \ Panel\ \ \ \ \ \ \ \ getPanel()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ protected\r\n\ \ ||\ \ boolean\ \ \ \ \ \ getCompassPoint()\ \ \ \ \ \ \ \ \ \ \ \ \ \ protected\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ paint()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ public\ \ \ \ \ Graphics\ g\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ setCompassPoint()\ \ \ \ \ \ \ \ \ \ \ \ \ \ protected\ \ boolean\ enable\r\n
+comment2.params=direction
+comment2.target=boolean\ getCompassPoint(int)
+comment3.params=
+comment3.target=java.awt.Panel\ getPanel()
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+comment5.params=enable
+comment5.target=void\ setCompassPoint(boolean)
+numComments=6

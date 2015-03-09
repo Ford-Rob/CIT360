@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CompassDirectionException()
+comment0.text=\r\n\ \ ||\ The\ constructors\ of\ the\ class\ are\:\r\n\ \ ||\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n\ \ ||\ \ Access\ \ \ \ \ Constructor\ Type\ \ Constructor\r\n\ \ ||\ \ ---------\ \ ----------------\ \ -------------------------------------------\r\n\ \ ||\ \ public\ \ \ \ \ Default\ \ \ \ \ \ \ \ \ \ \ CompassDirectionException()\r\n\ \ ||\ \ public\ \ \ \ \ Default\ \ \ \ \ \ \ \ \ \ \ CompassDirectionException(String\ s)\r\n
+comment1.params=s
+comment1.target=CompassDirectionException(java.lang.String)
+numComments=2

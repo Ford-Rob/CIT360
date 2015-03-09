@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CompassPanel()
+comment0.text=\r\n\ \ ||\ The\ constructors\ of\ the\ class\ are\:\r\n\ \ ||\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n\ \ ||\ \ Access\ \ \ \ \ Constructor\ Type\ \ Constructor\r\n\ \ ||\ \ ---------\ \ ----------------\ \ -------------------------------------------\r\n\ \ ||\ \ protected\ \ Default\ \ \ \ \ \ \ \ \ \ \ CompassPanel()\r\n
+comment1.params=
+comment1.target=void\ buildPanel()
+comment1.text=\r\n\ \ ||\ The\ static\ main\ instantiates\ a\ test\ instance\ of\ the\ class\:\r\n\ \ ||\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n\ \ ||\ \ Return\ Type\ \ Method\ Name\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Access\ \ \ \ \ Parameter\ List\r\n\ \ ||\ \ -----------\ \ -----------------------------\ \ ---------\ \ -----------------\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ buildPanel()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ private\r\n\ \ ||\ \ Panel\ \ \ \ \ \ \ \ getPanel()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ public\r\n\ \ ||\ \ TextField\ \ \ \ getCompassText()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ public\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ setCompass()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ public\ \ \ \ \ int\ direction\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ setCompassLabel()\ \ \ \ \ \ \ \ \ \ \ \ \ \ private\ \ \ \ int\ direction\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ setPaint()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ private\r\n
+comment2.params=
+comment2.target=java.awt.TextField\ getCompassText()
+comment3.params=
+comment3.target=java.awt.Panel\ getPanel()
+comment4.params=direction
+comment4.target=void\ setCompass(int)
+comment5.params=direction
+comment5.target=void\ setCompassLabel(int)
+comment6.params=
+comment6.target=void\ setPaint()
+numComments=7

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TurtleMonitorPanelSix()
+comment0.text=\r\n\ \ ||\ The\ constructors\ of\ the\ class\ are\:\r\n\ \ ||\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n\ \ ||\ \ Access\ \ \ \ \ Constructor\ Type\ \ Constructor\r\n\ \ ||\ \ ---------\ \ ----------------\ \ -------------------------------------------\r\n\ \ ||\ \ protected\ \ Default\ \ \ \ \ \ \ \ \ \ \ TurtleMonitorPanelSix()\r\n\ \ ||\ \ protected\ \ Override\ \ \ \ \ \ \ \ \ \ TurtleMonitorPanelSix(String\ beginString\r\n\ \ ||\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ ,String\ endString)\r\n
+comment1.params=beginString\ endString
+comment1.target=TurtleMonitorPanelSix(java.lang.String,\ java.lang.String)
+comment10.params=list
+comment10.target=void\ setLinesDrawn(java.lang.String)
+comment2.params=
+comment2.target=java.awt.Panel\ getPanel()
+comment2.text=\r\n\ \ ||\ The\ static\ main\ instantiates\ a\ test\ instance\ of\ the\ class\:\r\n\ \ ||\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\r\n\ \ ||\ \ Return\ Type\ \ Method\ Name\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Access\ \ \ \ \ Parameter\ List\r\n\ \ ||\ \ -----------\ \ -----------------------------\ \ ---------\ \ -----------------\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ buildFrame()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ protected\r\n\ \ ||\ \ Panel\ \ \ \ \ \ \ \ getPanel()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ protected\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ setBeginPoint()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ protected\ \ String\ begin\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ setCompass()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ protected\ \ int\ direction\r\n\ \ ||\ \ void\ \ \ \ \ \ \ \ \ setEndPoint()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ protected\ \ String\ end\r\n
+comment3.params=
+comment3.target=java.awt.TextArea\ getLinesDrawn()
+comment4.params=
+comment4.target=java.awt.TextField\ getBeginPoint()
+comment5.params=
+comment5.target=java.awt.TextField\ getEndPoint()
+comment6.params=
+comment6.target=void\ buildFrame()
+comment7.params=begin
+comment7.target=void\ setBeginPoint(java.lang.String)
+comment8.params=direction
+comment8.target=void\ setCompass(int)
+comment9.params=end
+comment9.target=void\ setEndPoint(java.lang.String)
+numComments=11
